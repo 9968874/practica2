@@ -1,0 +1,122 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedor{
+    margin: 30vh auto;
+    border: 5px solid black;
+    width: 1000px;
+    height: 600px;
+}
+
+.caja-1{
+    background-color: aqua;
+    width: 300px;
+    height: 600px;
+}
+.caja-2{
+    background-color: bisque;
+    width: 400px;
+    height: 600px;
+}
+.caja-3{
+    background-color: aquamarine;
+    width: 300px;
+    height: 600px;
+}
+.cajita1{
+    background-color: rgb(74, 234, 20);
+    width: 100px;
+    height: 200px;
+}
+.cajita2{
+    background-color: rgb(157, 10, 194);
+    width: 100px;
+    height: 200px;
+}
+.cajita3{
+    background-color: rgb(158, 18, 120);
+    width: 100px;
+    height: 200px;
+}
+.cajita4{
+    background-color: rgb(178, 33, 33);
+    width: 100px;
+    height: 200px;
+}
+.cajita1-1{
+    background-color: rgb(178, 33, 33);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-2{
+    background-color: rgb(6, 3, 3);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-3{
+    background-color: rgb(5, 127, 13);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-4{
+    background-color: rgb(11, 102, 135);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-5{
+    background-color: rgb(158, 8, 156);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-6{
+    background-color: rgb(114, 1, 1);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-7{
+    background-color: rgb(206, 107, 107);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-8{
+    background-color: rgb(171, 164, 164);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-9{
+    background-color: rgb(224, 2, 2);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-1-1{
+    background-color: rgb(224, 2, 2);
+    width: 240px;
+    height: 100px;
+}
+.cajita1-1-2{
+    background-color: rgb(214, 192, 192);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-1-3{
+    background-color: rgb(10, 69, 91);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-1-4{
+    background-color: rgb(21, 46, 47);
+    width: 240px;
+    height: 100px;
+}
+.cajita1-1-5{
+    background-color: rgb(162, 6, 45);
+    width: 100px;
+    height: 100px;
+}
+.cajita1-1-6{
+    background-color: rgb(200, 89, 41);
+    width: 100px;
+    height: 100px;
+}
